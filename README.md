@@ -1,4 +1,4 @@
-## rusherhack-instance-info
+## rusherhack-instance-info ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GarlicRot/rusherhack-instance-info/total)
 
 ## Original Features
 
